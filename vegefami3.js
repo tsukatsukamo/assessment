@@ -166,7 +166,7 @@ var answer = function (id, aOrB) {
     }
     a1.innerText = thisAnswer;
     a2.innerText = quizList[0][0] + 'と' + quizList[0][1] + 'は' + quizList[0][3] + 'です。';
-    a3.innerText = quizList[0][2] + 'は' + quizList[0][4] + 'です';
+    a3.innerText = quizList[0][2] + 'は' + quizList[0][4] + 'です。';
 
 
     
